@@ -85,9 +85,9 @@ description=""
 
 [[timeslots]]
 startTime="10:45"
-speakers=[]
-title="Open Slot"
-description=""
+speakers=["@expede","@matheus23"]
+title="User Controlled Authorization Network (UCAN)"
+description="UCAN is a capability-based access token combining DIDs, SPKI, and JWT designed fro P2P use cases"
 
 [[timeslots]]
 startTime="11:30"
