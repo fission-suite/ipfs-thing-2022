@@ -87,7 +87,7 @@ description=""
 startTime="10:45"
 speakers=["@expede"]
 title="Content Addressed Alliance Proposal"
-description="The vast majority of IPFS nodes churn quickly, making DHT management difficult. Modelled after the Bytecode Alliance, the Bandwidth Alliance, and DNS, a 'Content Addessed Alliance' would be an opt-in agreement among IPFS service providers with high uptimes to push (rather than pull) information about their hash tables, TTLs, and potentially even popular blocks with each other. The goal is to provide a strong backbone for the network to improve routing efficiency, and leverage the community to improve the network for each other."
+description="The vast majority of IPFS nodes churn quickly, making DHT management difficult. Modelled after the Bytecode Alliance, the Bandwidth Alliance, and DNS, a 'Content Addessed Alliance' would be an opt-in agreement among IPFS service providers with high uptimes to push (rather than pull) information about their hash tables, TTLs, bad hash lists, and potentially even popular blocks with each other. The goal is to provide a strong backbone for the network to improve routing efficiency, and leverage the community to improve the network for each other."
 
 [[timeslots]]
 startTime="11:30"
