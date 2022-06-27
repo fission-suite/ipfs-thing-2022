@@ -87,7 +87,7 @@ description=""
 startTime="10:45"
 speakers=["@expede","@matheus23"]
 title="User Controlled Authorization Network (UCAN)"
-description="UCAN is a capability-based access token combining DIDs, SPKI, and JWT designed fro P2P use cases"
+description="UCAN is a capability-based access token combining DIDs, SPKI, and JWT designed for P2P use cases."
 
 [[timeslots]]
 startTime="11:30"
